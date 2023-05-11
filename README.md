@@ -1,12 +1,28 @@
 ### Hi there 👋
 
-# I am Nikhil :v: 
+## I am Nikhil :v: 
 Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet.<br><br>
 
+<div>
+  <a href="https://github.com/reness0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rene-kt&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+    &nbsp;
+      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rene-kt&layout=compact&theme=react"></a>
+
+</div>  
+
+<!-- <div>
+  
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=n1khilnick&count_private=true&show_icons=true&theme=react&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1khilnick&layout=compact&theme=react)
+  
 
+</div>  
+ -->
+  
+ <br>
+  
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=n1khilnick&theme=react)
 
 <!-- ![Github Activity](https://activity-graph.herokuapp.com/graph?username=n1khilnick&theme=dracula&color=B994E6&bg_color=141321) -->
