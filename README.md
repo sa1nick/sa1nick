@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Nikhil :v: 
+# I am Nikhil :v: 
 <br>
-Back Stack Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet. 
+Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet. 
 
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=n1khilnick&count_private=true&show_icons=true&theme=react&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
