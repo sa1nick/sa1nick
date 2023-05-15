@@ -1,7 +1,43 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nikhil+Saini....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-## I am Nikhil :v: 
 Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet.<br><br>
+
+**Social Media:**
+
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/n1khil-saini22/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/n.1.k.h.i.l/)
+
+
+## 🛠  Technologies and tools
+
+<p>
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+<!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=orange" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+<!--   <img alt="mysql" src="https://img.shields.io/static/v1?style=flat-square&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" /> -->
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label" />
+ <img alt="vs-code" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
+   <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
+   <img alt="IntelliJ IDEA" src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ+IDEA&color=007ACC&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=" />
+   <img alt="Notepad" src="https://img.shields.io/static/v1?style=flat-square&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="/>
+  <img alt="spotify" src="https://img.shields.io/static/v1?style=flat-square&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+</p>
+
+<!-- <hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br> -->
 
 <div>
   <a href="https://github.com/n1khilnick">
@@ -32,5 +68,9 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 > <i>Random dev joke for you :)</i><br>
 <br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23141321&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%23ffffff" alt="README Jokes"></a>
+  
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 <!-- ⚡ Powered by Frappuccino JavaChip -->
