@@ -8,9 +8,11 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/n1khil-saini22/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/n.1.k.h.i.l/)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)](https://github.com/n1khilnick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/n1khil-saini22/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/n.1.k.h.i.l/)
 
 
 ## 🛠  Technologies and tools
@@ -70,7 +72,7 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23141321&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%23ffffff" alt="README Jokes"></a>
   
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 <!-- ⚡ Powered by Frappuccino JavaChip -->
