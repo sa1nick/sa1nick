@@ -1,3 +1,6 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn1khilnick%2Fn1khilnick&labelColor=%2377a1d3&countColor=%23697689&labelStyle=upper)
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nikhil+Saini....;Nice+to+meet+you!&center=true&size=30">
@@ -6,13 +9,10 @@
 
 Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet.<br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn1khilnick%2Fn1khilnick&labelColor=%2377a1d3&countColor=%23697689&labelStyle=upper)
 
 <br>
 
-**Social Media:**
-
-
+## **Social Media:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)](https://github.com/n1khilnick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/n1khil-saini22/)
@@ -43,7 +43,9 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br> -->
+<-->
+
+<br> 
 
 <div>
   <a href="https://github.com/n1khilnick">
