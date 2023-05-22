@@ -78,7 +78,7 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23141321&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%23ffffff" alt="README Jokes"></a>
   
 <p align="center">
-     <img src="svg/Bottom.svg" alt="Github Stats" />
+     <img src="https://github.com/n1khilnick/n1khilnick/blob/67b220c5cbd12a162e0f8c9bfde34609d2dcb355/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 <!-- ⚡ Powered by Frappuccino JavaChip -->
