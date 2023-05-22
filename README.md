@@ -4,7 +4,11 @@
   </a>
 </h1>
 
-Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet.<br><br>
+Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build things that live on & use the internet.<br>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn1khilnick%2Fn1khilnick&labelColor=%2377a1d3&countColor=%23697689&labelStyle=upper)
+
+<br>
 
 **Social Media:**
 
