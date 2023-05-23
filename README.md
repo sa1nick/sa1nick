@@ -51,7 +51,7 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
   <a href="https://github.com/n1khilnick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n1khilnick&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
     &nbsp;
-      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1khilnick&layout=compact&theme=react"></a>
+      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1khilnick&theme=react"></a>
 
 </div>  
 
