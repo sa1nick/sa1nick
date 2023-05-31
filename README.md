@@ -17,6 +17,7 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)](https://github.com/n1khilnick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/n1khil-saini22/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/n.1.k.h.i.l/)
+<!-- [![Experience component](https://readme-components.vercel.app/api?component=experience&company={enter your company name})](https://github.com/harish-sethuraman/readme-components) -->
 
 
 ## 🛠  Technologies and tools
@@ -26,8 +27,8 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
   <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
 <!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -37,6 +38,9 @@ Back End Developer ⚡ Learning Enthusiast ⚡ Java Addict ⚡ I like to build t
   <img alt="Github" src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label" />
  <img alt="vs-code" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
    <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
+   <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black" />
+   <img alt="apache maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=flat-square&logo=Apache-Maven&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ+IDEA&color=007ACC&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=" />
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
    <img alt="Notepad" src="https://img.shields.io/static/v1?style=flat-square&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="/>
