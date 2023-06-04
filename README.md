@@ -18,13 +18,15 @@
 
 <a href="https://linkedin.com/in/n1khil-saini22" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil--saini22-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" alt="n1khil-saini22"/></a>
 <a href="https://www.hackerrank.com/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-00EA64.svg?style=flat&logo=HackerRank&logoColor=black" alt="n1khil"/></a>
-<a href="https://www.leetcode.com/saininikhilnnn" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-FFA116.svgstyle=flat&logo=LeetCode&logoColor=black" /></a>
+<a href="https://www.leetcode.com/saininikhilnnn" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-FFA116.svg?style=flat&logo=LeetCode&logoColor=white" /></a>
 <a href="https://auth.geeksforgeeks.org/user/saininikhilnnn/practice" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-2F8D46.svg?style=flat&logo=GeeksforGeeks&logoColor=white" alt="saininikhilnnn/practice" /></a>
 <a href="https://instagram.com/n.1.k.h.i.l" target="blank"><img align="center" src="https://img.shields.io/badge/n.1.k.h.i.l-E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="n.1.k.h.i.l" /></a>
 <a href="https://codepen.io/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-000000.svg?style=flat&logo=CodePen&logoColor=white" alt="n1khil" /></a>
 </p>
 
-## 🛠  Technologies and tools
+<hr>
+
+<h3 align="left">⚒️ Technologies and tools:</h3>
 
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
