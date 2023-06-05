@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nikhil Saini</h1>
 <h3 align="center">A passionate Java Spring Boot Developer from India</h3>
 
+#### I am currently undertaking an apprenticeship at the Geekster platform, where I am wholeheartedly dedicated to enhancing my expertise in the field of technology. With a strong focus on backend development and extensive experience in Spring Boot, I bring a wealth of knowledge in Java programming and Data Structures and Algorithms (DSA). My passion for programming has driven me to acquire a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. I approach my work with unwavering commitment, diligence, and an ongoing pursuit of skill enhancement to ensure the best possible outcomes in my projects.
+
 - 🔭 I’m currently working on [expense-tracker](https://github.com/n1khilnick/expense-tracker-api-test)
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/n1khilnick?tab=repositories)
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, MySQL, DSA....**
 
 - 📫 How to reach me via [Gmail](saininikhilnnn@gmail.com)
 
@@ -48,7 +50,7 @@
    <img alt="apache maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=flat-square&logo=Apache-Maven&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ+IDEA&color=007ACC&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=" />
-   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=flat-square&logo=Amazon-EC2&logoColor=white" />
+   <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=flat-square&logo=Amazon-EC2&logoColor=white" />
   <!-- <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> -->
    <img alt="Notepad" src="https://img.shields.io/static/v1?style=flat-square&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="/>
   <!-- <img alt="spotify" src="https://img.shields.io/static/v1?style=flat-square&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=" /> -->
