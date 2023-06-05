@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Java, Spring Boot, MySQL, DSA....**
 
-- 📫 How to reach me via [Gmail](saininikhilnnn@gmail.com)
+- 📫 How to reach me via [Gmail](mailto:saininikhilnnn@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://media.licdn.com/dms/document/media/D4D2DAQEis0GB_a7x1Q/profile-treasury-document-pdf-analyzed/0/1685857663173?e=1686787200&v=beta&t=F51CiBsThC9vKVyQZRUMjSJmCq6NTSOgLXKc334M5Ns)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18PBSdY1qoPCg_ranB07sn4nf2rJ5tdos/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
