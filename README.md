@@ -51,6 +51,7 @@
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ+IDEA&color=007ACC&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=" />
    <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=flat-square&logo=Amazon-EC2&logoColor=white" />
+  <img alt="rs" src="https://img.shields.io/badge/REST {API}-2F2E8B.svg?style=flat-square&logo=Strapi&logoColor=white" />
   <!-- <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> -->
    <img alt="Notepad" src="https://img.shields.io/static/v1?style=flat-square&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="/>
   <!-- <img alt="spotify" src="https://img.shields.io/static/v1?style=flat-square&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=" /> -->
