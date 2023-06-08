@@ -31,7 +31,7 @@
 <h3 align="left">⚒️ Technologies and tools:</h3>
 
 <p>
-  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-F00000.svg?logo=java&logoColor=white" />
   <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
 <!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
