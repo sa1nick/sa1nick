@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18PBSdY1qoPCg_ranB07sn4nf2rJ5tdos/view?usp=drive_link)
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
