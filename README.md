@@ -4,7 +4,7 @@
 #### I am currently undertaking an apprenticeship at the Geekster platform, where I am wholeheartedly dedicated to enhancing my expertise in the field of technology. With a strong focus on backend development and extensive experience in Spring Boot, I bring a wealth of knowledge in Java programming and Data Structures and Algorithms (DSA). My passion for programming has driven me to acquire a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. I approach my work with unwavering commitment, diligence, and an ongoing pursuit of skill enhancement to ensure the best possible outcomes in my projects.
 
 <br>
- <img align="right" width="400" height="270" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Coder GIF" width="500">
 
 - 🔭 I’m currently working on [expense-tracker](https://github.com/n1khilnick/expense-tracker-api-test)
 
