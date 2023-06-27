@@ -95,3 +95,11 @@
 <!-- ![Github Activity](https://activity-graph.herokuapp.com/graph?username=n1khilnick&theme=dracula&color=B994E6&bg_color=141321) -->
 
 <br>
+> <i>Random dev joke for you :)</i><br>
+<br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23141321&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%23ffffff" alt="README Jokes"></a>
+  
+<p align="center">
+     <img src="https://github.com/n1khilnick/n1khilnick/blob/ebf6831ac4751be35d94110a273c7d4ecf25c2fa/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
