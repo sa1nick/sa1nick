@@ -1,3 +1,6 @@
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=n1khilnick&style=flat-square">
+</a>
 <h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; A passionate Java Spring Boot Developer from India</h3>
 
@@ -19,7 +22,10 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18PBSdY1qoPCg_ranB07sn4nf2rJ5tdos/view?usp=drive_link)
 
 <br>
-<hr>
+<!-- <hr> -->
+<!-- --- -->
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +38,9 @@
 <a href="https://codepen.io/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-000000.svg?style=flat&logo=CodePen&logoColor=white" alt="n1khil" /></a>
 </p>
 
-<hr>
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h3 align="left">⚒️ Technologies and tools:</h3>
 
