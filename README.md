@@ -19,7 +19,7 @@
 
 - 📫 How to reach me via [Gmail](mailto:saininikhilnnn@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18PBSdY1qoPCg_ranB07sn4nf2rJ5tdos/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yc5DeUgH8IBvT8ZWYUADRw6fMMzJVzhy/view?usp=sharing)
 
 <br>
 <!-- <hr> -->
