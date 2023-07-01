@@ -39,9 +39,6 @@
 </p>
 
 
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 <h3 align="left">⚒️ Technologies and tools:</h3>
 
 <p>
@@ -76,7 +73,8 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <-->
 
-<br> 
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div>
   <a href="https://github.com/n1khilnick">
