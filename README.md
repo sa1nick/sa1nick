@@ -1,7 +1,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=n1khilnick&style=flat-square">
 </a>
-<h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
+<h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
 <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; A passionate Java Spring Boot Developer from India</h3>
 
 #### I am currently undertaking an apprenticeship at the Geekster platform, where I am wholeheartedly dedicated to enhancing my expertise in the field of technology. With a strong focus on backend development and extensive experience in Spring Boot, I bring a wealth of knowledge in Java programming and Data Structures and Algorithms (DSA). My passion for programming has driven me to acquire a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. I approach my work with unwavering commitment, diligence, and an ongoing pursuit of skill enhancement to ensure the best possible outcomes in my projects.
@@ -23,10 +23,8 @@
 
 <br>
 <!-- <hr> -->
-<!-- --- -->
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
