@@ -2,20 +2,22 @@
     <img src="https://komarev.com/ghpvc/?username=n1khilnick&style=flat-square">
 </a>
 <h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
-<h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; A passionate Java Spring Boot Developer from India</h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; A passionate React Front-End Developer from India.</h3>
 
-#### I am currently undertaking an apprenticeship at the Geekster platform, where I am wholeheartedly dedicated to enhancing my expertise in the field of technology. With a strong focus on backend development and extensive experience in Spring Boot, I bring a wealth of knowledge in Java programming and Data Structures and Algorithms (DSA). My passion for programming has driven me to acquire a comprehensive understanding of multiple programming languages, and I am always eager to expand my knowledge even further. I approach my work with unwavering commitment, diligence, and an ongoing pursuit of skill enhancement to ensure the best possible outcomes in my projects.
+#### I am an enthusiastic front-end developer who has learned front-end technologies, including HTML, CSS, JavaScript, and React. I have dedicated myself to advancing my technology skills, with a strong focus on backend development and substantial expertise in Spring Boot. My knowledge encompasses Java programming and proficiency in Data Structures and Algorithms (DSA). I have a deep passion for programming and have acquired a comprehensive understanding of multiple programming languages. I'm always eager to expand my knowledge. I approach my work with unwavering commitment, diligence, and an ongoing pursuit of skill enhancement to ensure the best possible outcomes in my projects.
+
+.
 
 <br>
  <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Coder GIF" width="500">
 
-- 🔭 I’m currently working on [expense-tracker](https://github.com/n1khilnick/expense-tracker-api-test)
+- 🔭 I’m currently working React-Router
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/n1khilnick?tab=repositories)
 
-- 💬 Ask me about **Java, Spring Boot, MySQL, DSA....**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Java, Spring Boot, MySQL, DSA....**
 
 - 📫 How to reach me via [Gmail](mailto:saininikhilnnn@gmail.com)
 
@@ -40,15 +42,15 @@
 <h3 align="left">⚒️ Technologies and tools:</h3>
 
 <p>
-  <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-F00000.svg?logo=java&logoColor=white" />
-  <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
-<!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
   <img alt="html5" src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-F00000.svg?logo=java&logoColor=white" />
+  <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
+<!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <!--   <img alt="mysql" src="https://img.shields.io/static/v1?style=flat-square&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" /> -->
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
