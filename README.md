@@ -6,7 +6,6 @@
 
 #### I am an enthusiastic front-end developer who has learned front-end technologies, including HTML, CSS, JavaScript, and React. I have dedicated myself to advancing my technology skills, with a strong focus on backend development and substantial expertise in Spring Boot. My knowledge encompasses Java programming and proficiency in Data Structures and Algorithms (DSA). I have a deep passion for programming and have acquired a comprehensive understanding of multiple programming languages. I'm always eager to expand my knowledge. I approach my work with unwavering commitment, diligence, and an ongoing pursuit of skill enhancement to ensure the best possible outcomes in my projects.
 
-.
 
 <br>
  <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Coder GIF" width="500">
