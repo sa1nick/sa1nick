@@ -43,10 +43,14 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="css-modules" src="https://img.shields.io/badge/CSS%20Modules-013243.svg?style=flat-square&logo=CSS-Modules&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-F00000.svg?logo=java&logoColor=white" />
+  <img alt='react-router' src="https://img.shields.io/badge/React_Router-20232A?style=flat-square&logo=react-router&logoColor=CA4245">
+  <img alt='vite' src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=Vite&logoColor=FF9900">
+    
+  <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-343A40.svg?logo=java&logoColor=DD6620" />
   <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
 <!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
