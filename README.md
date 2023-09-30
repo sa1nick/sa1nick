@@ -1,5 +1,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=n1khilnick&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=sa1nick&style=flat-square">
 </a>
 <h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
 <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; A passionate React Front-End Developer from India.</h3>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/n1khilnick?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sa1nick?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Java, Spring Boot, MySQL, DSA....**
 
@@ -80,18 +80,18 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div>
-  <a href="https://github.com/n1khilnick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n1khilnick&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+  <a href="https://github.com/sa1nick">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sa1nick&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
     &nbsp;
-      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1khilnick&theme=react"></a>
+      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1nick&theme=react"></a>
 
 </div>  
 
 <!-- <div>
   
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=n1khilnick&count_private=true&show_icons=true&theme=react&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=sa1nick&count_private=true&show_icons=true&theme=react&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1khilnick&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa1nick&layout=compact&theme=react)
   
 
 </div>  
@@ -99,9 +99,9 @@
   
  <br>
   
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=n1khilnick&theme=react)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sa1nick&theme=react)
 
-<!-- ![Github Activity](https://activity-graph.herokuapp.com/graph?username=n1khilnick&theme=dracula&color=B994E6&bg_color=141321) -->
+<!-- ![Github Activity](https://activity-graph.herokuapp.com/graph?username=sa1nick&theme=dracula&color=B994E6&bg_color=141321) -->
 
 <br>
 > <i>Random dev joke for you :)</i><br>
@@ -109,6 +109,6 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23141321&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%23ffffff" alt="README Jokes"></a>
   
 <p align="center">
-     <img src="https://github.com/n1khilnick/n1khilnick/blob/ebf6831ac4751be35d94110a273c7d4ecf25c2fa/svg/Bottom.svg" alt="Github Stats" />
+     <img src="https://github.com/sa1nick/sa1nick/blob/ebf6831ac4751be35d94110a273c7d4ecf25c2fa/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
