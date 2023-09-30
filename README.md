@@ -81,10 +81,9 @@
 
 <div>
   <a href="https://github.com/sa1nick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sa1nick&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sa1nick&theme=react&show_icons=true&hide_border=true&count_private=true" alt="sa1nick's Stats"/> 
     &nbsp;
       <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1nick&theme=react"></a>
-
 </div>  
 
 <!-- <div>
