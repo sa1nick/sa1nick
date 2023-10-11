@@ -35,7 +35,7 @@ Profile Views
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/n1khil-saini22" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil--saini22-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" alt="n1khil-saini22"/></a>
+
 <a href="https://www.hackerrank.com/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-00EA64.svg?style=flat&logo=HackerRank&logoColor=black" alt="n1khil"/></a>
 <a href="https://www.leetcode.com/saininikhilnnn" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-FFA116.svg?style=flat&logo=LeetCode&logoColor=white" /></a>
 <a href="https://auth.geeksforgeeks.org/user/saininikhilnnn/practice" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-2F8D46.svg?style=flat&logo=GeeksforGeeks&logoColor=white" alt="saininikhilnnn/practice" /></a>
