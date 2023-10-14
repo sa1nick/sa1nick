@@ -26,7 +26,7 @@ Profile Views
 
 - 📫 How to reach me via [Gmail](mailto:saininikhilnnn@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yc5DeUgH8IBvT8ZWYUADRw6fMMzJVzhy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vGeZZ5VI9dRc8ll0WNiqtpQ9_Ambi36H/view?usp=drive_link)
 
 <br>
 <!-- <hr> -->
