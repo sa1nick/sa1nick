@@ -37,7 +37,7 @@ Profile Views
 
 
 <a href="https://www.hackerrank.com/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-00EA64.svg?style=flat&logo=HackerRank&logoColor=black" alt="n1khil"/></a>
-<a href="https://www.leetcode.com/saininikhilnnn" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-FFA116.svg?style=flat&logo=LeetCode&logoColor=white" /></a>
+<a href="https://www.leetcode.com/saininikhilnnn" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-FFA116.svg?style=flat&logo=LeetCode&logoColor=white" /></a>>
 <a href="https://auth.geeksforgeeks.org/user/saininikhilnnn/practice" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-2F8D46.svg?style=flat&logo=GeeksforGeeks&logoColor=white" alt="saininikhilnnn/practice" /></a>
 <a href="https://instagram.com/n.1.k.h.i.l" target="blank"><img align="center" src="https://img.shields.io/badge/n.1.k.h.i.l-E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="n.1.k.h.i.l" /></a>
 <a href="https://codepen.io/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-000000.svg?style=flat&logo=CodePen&logoColor=white" alt="n1khil" /></a>
@@ -54,6 +54,7 @@ Profile Views
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt='react-router' src="https://img.shields.io/badge/React_Router-20232A?style=flat-square&logo=react-router&logoColor=CA4245">
+  <img alt="React" src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=Redux&logoColor=white" />
   <img alt='vite' src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=Vite&logoColor=FF9900">
     
   <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-343A40.svg?logo=java&logoColor=DD6620" />
