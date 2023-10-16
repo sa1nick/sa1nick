@@ -37,7 +37,7 @@ Profile Views
 
 
 <a href="https://www.hackerrank.com/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-00EA64.svg?style=flat&logo=HackerRank&logoColor=black" alt="n1khil"/></a>
-<a href="https://www.leetcode.com/saininikhilnnn" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-FFA116.svg?style=flat&logo=LeetCode&logoColor=white" /></a>>
+<a href="https://www.leetcode.com/saininikhilnnn" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-FFA116.svg?style=flat&logo=LeetCode&logoColor=white"/></a>
 <a href="https://auth.geeksforgeeks.org/user/saininikhilnnn/practice" target="blank"><img align="center" src="https://img.shields.io/badge/saininikhilnnn-2F8D46.svg?style=flat&logo=GeeksforGeeks&logoColor=white" alt="saininikhilnnn/practice" /></a>
 <a href="https://instagram.com/n.1.k.h.i.l" target="blank"><img align="center" src="https://img.shields.io/badge/n.1.k.h.i.l-E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="n.1.k.h.i.l" /></a>
 <a href="https://codepen.io/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-000000.svg?style=flat&logo=CodePen&logoColor=white" alt="n1khil" /></a>
