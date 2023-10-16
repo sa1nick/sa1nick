@@ -32,7 +32,7 @@ Profile Views
 <!-- <hr> -->
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me 👥:</h3>
 <p align="left">
 
 
@@ -44,7 +44,7 @@ Profile Views
 </p>
 
 
-<h3 align="left">⚒️ Technologies and tools:</h3>
+<h3 align="left">⚒️ Technologies and tools ⚙️:</h3>
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" />
