@@ -49,7 +49,8 @@ Profile Views
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="css-modules" src="https://img.shields.io/badge/CSS%20Modules-013243.svg?style=flat-square&logo=CSS-Modules&logoColor=61DAFB" />
+  <img alt="css-modules" src="https://img.shields.io/badge/CSS%20Modules-02458D.svg?style=flat-square&logo=CSS-Modules&logoColor=white" />
+  <img alt="tailwind css" src="https://img.shields.io/badge/Tailwind%20CSS-0B2C4A.svg?style=flat-square&logo=Tailwind-CSS&logoColor=06B6D4" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
