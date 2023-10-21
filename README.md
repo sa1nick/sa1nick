@@ -70,6 +70,7 @@ Profile Views
    <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
    <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black" />
    <img alt="apache maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=flat-square&logo=Apache-Maven&logoColor=white" />
+   <img alt="apache tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=flat-square&logo=Apache-Tomcat&logoColor=black" />
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/static/v1?style=flat-square&message=IntelliJ+IDEA&color=007ACC&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=" />
    <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FE7711.svg?style=flat-square&logo=Amazon-EC2&logoColor=181717" />
