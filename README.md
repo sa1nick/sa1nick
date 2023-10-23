@@ -91,9 +91,9 @@ Profile Views
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div>
-  <a href="https://github.com/sa1nick">
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sa1nick&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="sa1nick's Stats"/> 
-      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1nick&theme=nord"></a>
+      &nbsp;
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1nick&theme=nord"></a>
 </div>  
 
 <!-- <div>
