@@ -49,6 +49,7 @@ Profile Views
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=flat-square&logo=Sass&logoColor=white"/>
   <img alt="css-modules" src="https://img.shields.io/badge/CSS%20Modules-02458D.svg?style=flat-square&logo=CSS-Modules&logoColor=white" />
   <img alt="tailwind css" src="https://img.shields.io/badge/Tailwind%20CSS-0B2C4A.svg?style=flat-square&logo=Tailwind-CSS&logoColor=06B6D4" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
@@ -66,7 +67,7 @@ Profile Views
 <!--   <img alt="mysql" src="https://img.shields.io/static/v1?style=flat-square&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" /> -->
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label" />
- <img alt="vs-code" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
+  <img alt="vs-code" src="https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
    <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-square&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
    <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black" />
    <img alt="apache maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=flat-square&logo=Apache-Maven&logoColor=white" />
@@ -91,9 +92,9 @@ Profile Views
 
 <div>
   <a href="https://github.com/sa1nick">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sa1nick&theme=react&show_icons=true&hide_border=true&count_private=true" alt="sa1nick's Stats"/> 
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sa1nick&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="sa1nick's Stats"/> 
     &nbsp;
-      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1nick&theme=react"></a>
+      <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1nick&theme=nord"></a>
 </div>  
 
 <!-- <div>
@@ -107,7 +108,7 @@ Profile Views
  -->
   
   
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sa1nick&theme=react)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sa1nick&theme=nord)
 
 <!-- ![Github Activity](https://activity-graph.herokuapp.com/graph?username=sa1nick&theme=dracula&color=B994E6&bg_color=141321) -->
 
