@@ -1,11 +1,13 @@
-Profile Views
+<!---Profile Views
 <!---
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sa1nick&style=flat">
 </a>
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/sa1nick/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/sa1nick/count.svg) -->
+
+[![](https://visitcount.itsvg.in/api?id=sa1nick&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
 <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; A passionate React Front-End Developer from India.</h3>
