@@ -61,7 +61,7 @@
   <img alt="React" src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=Redux&logoColor=white" />
   <img alt='vite' src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=Vite&logoColor=FF9900">
     
-  <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-343A40.svg?logo=java&logoColor=DD6620" />
+<img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-EAEAEA.svg?logo=java&logoColor=DD6620" />
   <img alt="spring-boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
 <!--   <img alt="spring-boot" src="https://img.shields.io/static/v1?style=flat-square&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" /> -->
