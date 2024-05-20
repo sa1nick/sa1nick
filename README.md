@@ -34,8 +34,12 @@
 <!-- <hr> -->
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<h3 align="left">🤝 Connect with me 👥:</h3>
+<!--
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Coder GIF" width="20"> <h3 align="left">🤝 Connect with me 👥:</h3><!-->
+<h3 align="left"> <img  src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Coder GIF" width="25"> Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Busts in Silhouette" width="25" height="25" />:</h3>
 <p align="left">
+
+
 
 
 <a href="https://www.hackerrank.com/n1khil" target="blank"><img align="center" src="https://img.shields.io/badge/n1khil-00EA64.svg?style=flat&logo=HackerRank&logoColor=black" alt="n1khil"/></a>
