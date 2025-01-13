@@ -28,7 +28,7 @@
 
 - 📫 How to reach me via [Gmail](mailto:saininikhilnnn@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vGeZZ5VI9dRc8ll0WNiqtpQ9_Ambi36H/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]()
 
 <br>
 <!-- <hr> -->
