@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
 <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Passionate React Native & Full-Stack Developer from India</h3>
-🚀 About Me
+
 I am an enthusiastic React Native and full-stack developer with expertise in front-end and backend technologies. I have hands-on experience in building scalable mobile and web applications using React, React Native, Redux, Context API, and Tailwind CSS. My backend skills include Java, Spring Boot, Hibernate, SQL, and Liferay DXP for enterprise solutions.
 
 With a strong foundation in Data Structures and Algorithms (DSA) and problem-solving, I strive to write clean, efficient, and maintainable code. I am proficient in developing RESTful APIs, integrating third-party services, and optimizing application performance.
