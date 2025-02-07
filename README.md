@@ -10,10 +10,11 @@
 [![](https://visitcount.itsvg.in/api?id=sa1nick&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi, I'm Nikhil Saini </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
-<h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; A passionate React Front-End Developer from India.</h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Passionate React Native & Full-Stack Developer from India</h3>
+🚀 About Me
+I am an enthusiastic React Native and full-stack developer with expertise in front-end and backend technologies. I have hands-on experience in building scalable mobile and web applications using React, React Native, Redux, Context API, and Tailwind CSS. My backend skills include Java, Spring Boot, Hibernate, SQL, and Liferay DXP for enterprise solutions.
 
-#### I am an enthusiastic front-end developer who has learned front-end technologies, including HTML, CSS, JavaScript, and React. I have dedicated myself to advancing my technology skills, with a strong focus on backend development and substantial expertise in Spring Boot. My knowledge encompasses Java programming and proficiency in Data Structures and Algorithms (DSA). I have a deep passion for programming and have acquired a comprehensive understanding of multiple programming languages. I'm always eager to expand my knowledge. I approach my work with unwavering commitment, diligence, and an ongoing pursuit of skill enhancement to ensure the best possible outcomes in my projects.
-
+With a strong foundation in Data Structures and Algorithms (DSA) and problem-solving, I strive to write clean, efficient, and maintainable code. I am proficient in developing RESTful APIs, integrating third-party services, and optimizing application performance.
 
 <br>
  <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Coder GIF" width="500">
@@ -61,8 +62,9 @@
   <img alt="css-modules" src="https://img.shields.io/badge/CSS%20Modules-02458D.svg?style=flat-square&logo=CSS-Modules&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt='React Native' src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
   <img alt='react-router' src="https://img.shields.io/badge/React_Router-20232A?style=flat-square&logo=react-router&logoColor=CA4245">
-  <img alt="React" src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=Redux&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=Redux&logoColor=white" />
   <img alt='vite' src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=Vite&logoColor=FF9900">
     
 <img alt="java" src="https://custom-icon-badges.demolab.com/badge/Java-EAEAEA.svg?logo=java&logoColor=DD6620" />
